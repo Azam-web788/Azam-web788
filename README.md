@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align = "right"  width="250" height="250">
 
-- 🌱 I’m currently learning **mySQL**
+- 🌱 I’m currently learning **python**
 
 - 👯 I’m looking to collaborate on **Reactjs projects**
 
