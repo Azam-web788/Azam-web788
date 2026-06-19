@@ -47,3 +47,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azam-web788&" alt="azam-web788" /></p>
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Azam-web788/Azam-web788/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azam-web788/Azam-web788/pacman-output/pacman-contribution-graph-dark.svg">
+</picture>
+
+###
