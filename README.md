@@ -50,12 +50,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Azam-web788/Azam-web788/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azam-web788/Azam-web788/pacman-output/pacman-contribution-graph-dark.svg">
-</picture>
-
-###
