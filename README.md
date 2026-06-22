@@ -50,3 +50,6 @@
 
 <br clear="both">
 
+## 🐍 Contribution Snake
+
+![Snake Animation](https://raw.githubusercontent.com/Azam-web788/Azam-web788/output/github-contribution-grid-snake.svg)
